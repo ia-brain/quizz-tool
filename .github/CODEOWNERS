@@ -1,0 +1,22 @@
+# Global code ownership
+* @ia-brain
+
+# Frontend code
+/src/app/ @ia-brain
+/src/components/ @ia-brain
+/src/hooks/ @ia-brain
+
+# Backend code
+/src/lib/ @ia-brain
+/prisma/ @ia-brain
+
+# Configuration files
+/.github/ @ia-brain
+/agents/ @ia-brain
+package.json @ia-brain
+tsconfig.json @ia-brain
+next.config.ts @ia-brain
+
+# Documentation
+README.md @ia-brain
+/docs/ @ia-brain
